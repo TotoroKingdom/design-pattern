@@ -11,5 +11,6 @@ public class Cilent {
         animal.run();
         Animal cat = Factory.getAnimal("cat");
         cat.run();
+        System.out.println("--------------------------------");
     }
 }
