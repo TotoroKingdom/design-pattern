@@ -1,4 +1,4 @@
-package simpl_factory_pattern;
+package simple_factory_pattern;
 
 /**
  * @author totoro
