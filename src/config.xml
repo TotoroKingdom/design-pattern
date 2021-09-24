@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <config>
 <!--    <className>factory_method_pattern.factory.CatFactory</className>-->
-    <className>abstract_factory_pattern.factory.XiaoMiFactory</className>
+<!--    <className>abstract_factory_pattern.factory.XiaoMiFactory</className>-->
+<!--    <className>builder_pattern.builder.AngelBuilder</className>-->
+<!--    <className>adapter_pattern.PoliceCarAdapter</className>-->
+<!--    <className>proxy_pattern.ProxySearcher</className>-->
+    <className>command_pattern.ExitCommand</className>
 </config>
