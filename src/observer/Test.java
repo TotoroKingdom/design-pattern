@@ -10,5 +10,6 @@ public class Test {
         concrete.setMsg("111");
         concrete.setMsg("222");
         concrete.setMsg("333");
+        System.out.println("yolo");
     }
 }
